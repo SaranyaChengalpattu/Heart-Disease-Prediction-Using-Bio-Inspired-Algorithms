@@ -1,0 +1,3 @@
+pip install sklearn-genetic
+
+pip install SwarmPackagePy
